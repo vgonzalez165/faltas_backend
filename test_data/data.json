@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Víctor",
+        "apellidos": "González Rodríguez",
+        "codigo": "IF67",
+        "mail": "vjgonzalezr@educa.jcyl.es",
+        "pass": "1234",
+        "rol": "admin"
+    },
+    {
+        "nombre": "Pedro",
+        "apellidos": "Pérez López",
+        "codigo": "IF01",
+        "mail": "pedro@educa.jcyl.es",
+        "pass": "1234",
+        "rol": "jefe_estudios"
+    },
+    {
+        "nombre": "Agustín",
+        "apellidos": "Fernández Pérez",
+        "codigo": "IF02",
+        "mail": "agustin@educa.jcyl.es",
+        "pass": "1234",
+        "rol": "profesor"
+    }
+]
